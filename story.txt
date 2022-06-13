@@ -1,2 +1,3 @@
 this is umme sumaiya, hi from me
 this is about merge conflict
+i am saying bye from feature2
